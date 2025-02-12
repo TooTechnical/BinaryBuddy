@@ -1,2 +1,2 @@
 colorama==0.4.6
-pytest==8.2.0  # For local testing
+pytest==8.2.0
